@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <h1 align="center">Hi 👋, I'm Aayush Vinay</h1>
 <h3 align="center">A passionate FullStack developer from India, I'm mostly a GO-nerd :D</h3>
 
@@ -5,8 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  ![Twitter](https://x.com/AayushVinay)
-  ![LinkedIN](https://www.linkedin.com/in/AayushVinay/)
+  <section> <a href="https://x.com/AayushVinay" > Twitter</a></section> </br> 
+  <section> <a href="https://www.linkedin.com/in/AayushVinay/">LinkedIN</a> </section>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
