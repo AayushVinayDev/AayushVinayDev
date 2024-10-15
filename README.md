@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Vinay</h1>
 <h3 align="center">A passionate FullStack developer from India, I'm mostly a GO-nerd :D</h3>
 
-- 🔭 I’m currently working on **e-commerce microservice**
+- 🔭 I’m currently working on **my rpg-game:Valeria in Golang, and a micro-SaaS: Pulse**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
