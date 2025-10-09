@@ -1,8 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <h1 align="center">Hi 👋, I'm Aayush Vinay</h1>
-<h3 align="center">A passionate FullStack developer from India, I'm mostly a GO-nerd :D</h3>
-
-- 🔭 I’m currently working on **my rpg-game:Valeria in Golang, and a micro-SaaS: Pulse**
+<h3 align="center">A passionate FullStack developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
