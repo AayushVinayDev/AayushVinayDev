@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<h1 align="center">Hi 👋, I'm Aayush Vinay</h1>
-<h3 align="center">A passionate FullStack developer</h3>
+<h1 align="center">Sup 👋</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
